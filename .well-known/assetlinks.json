@@ -1,16 +1,9 @@
-[{
-    "relation": ["delegate_permission/common.handle_all_urls"],
-    "target": {
-      "namespace": "android_app",
-      "package_name": "io.github.serdaryener67.plak1.twa",
-      "sha256_cert_fingerprints": ["E7:E2:F5:4F:...:F4:04"]
-    }
   },
   {
     "relation": ["delegate_permission/common.handle_all_urls"],
     "target": {
       "namespace": "android_app",
       "package_name": "com.serdaryener.yazihane.kozalak",
-      "sha256_cert_fingerprints": ["5D:15:AF:82:...:F4:EE"]
+      "sha256_cert_fingerprints": ["5D:15:AF:82:F4:AC:48:5B:30:8C:02:84:A3:9A:50:8A:AD:EB:D4:6E:6E:66:D4:A9:0F:1E:4F:CE:DA:EE:F4:EE"]
     }
   }]
