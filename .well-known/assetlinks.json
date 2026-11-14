@@ -1,3 +1,10 @@
+[{
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.serdaryener67.plak1.twa",
+      "sha256_cert_fingerprints": ["E7:E2:F5:4F:25:0F:BC:E3:96:D7:F4:27:14:5F:8C:F4:A9:A2:FE:9A:37:70:B4:9F:75:92:8A:A8:CF:8D:F4:04"]
+    }
   },
   {
     "relation": ["delegate_permission/common.handle_all_urls"],
